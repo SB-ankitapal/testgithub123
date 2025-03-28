@@ -1,0 +1,26 @@
+{
+  "name": "TestGithub123",
+  "description": "",
+  "spectralExtends": [],
+  "extends": [],
+  "formats": [
+    "oas2",
+    "oas3",
+    "oas3.0",
+    "oas3.1"
+  ],
+  "aliases": {},
+  "rules": {
+    "testRule": {
+      "id": "Srv2VP_xDbfs67ZcxBANQ",
+      "given": [],
+      "severity": "error",
+      "then": {
+        "function": "undefined"
+      },
+      "name": "testRule",
+      "message": "msg"
+    }
+  },
+  "extendedDefault": false
+}
